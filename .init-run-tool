@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/webtictactoe-61447-29e42db0/webtic_tac_toe_frontend"
+}
